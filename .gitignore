@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+__MACOSX/
+
+# Icon file used by macOS
+Icon?
+
+# Thumbnails
+._*
+
+# Spotlight files
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Files that might appear on external disks
+*.fseventsd
